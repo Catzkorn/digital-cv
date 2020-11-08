@@ -13,21 +13,20 @@ I am a passionate and driven backend developer with a strong curiosity for dev-o
 
 # Projects
 
-## Subscrypt
-### _Makers Final Engineering Project, In Progress_
+### Subscrypt
+#### _Makers Final Engineering Project, In Progress_
 
 To help users reduce money wasted on unused or forgotten subscriptions, Subscrypt is a subscription manager that allows the user to keep track of their subscriptions, and be notified, at their discretion, when renewal is due. The project is written in Go with a React frontend and aims to implement best practices in data management and security. 
 
-
-## Containerize This!
-### _Project In Progress_
+### Containerize This!
+#### _Project In Progress_
 
 A kubernetes cluster run on three Raspberry Pi 4's nodes to gain practical understanding of k8s deployment and management.
 
 
 # Education
 
-## Makers Academy (August 2020 - November 2020)
+### Makers Academy (August 2020 - November 2020)
 
 Engineering Project: _Subscrypt_
 
@@ -38,8 +37,8 @@ Engineering Project: _Subscrypt_
 - Postgresql, ActiveRecord
 - Heroku, AWS, GCP
 
-## University of Southampton (2014 - 2019)
-### PhD Candidate, NERC CDT in Oil and Gas
+### University of Southampton (2014 - 2019)
+#### PhD Candidate, NERC CDT in Oil and Gas
 Research: _Base and Heavy Metal Mobilisation during Hydraulic Fracturing of Black Shales_
 
 The research focused on uncovering and understanding the fluid-rock interactions and subsequent mobilisation of metals which happens during hydraulic fracturing (_fracking_) through simulated laboratory experimentation designed and conducted by myself. The results of the experiments were expected to help inform and guide environmental regulations, and best operating practices, for potential shale exploration onshore within the United Kingdom. 
@@ -56,8 +55,8 @@ TSOP-AASP-ICCP Joint Meeting, Houston, Texas USA (2016)
   - _Metal Mobilisation During Hydraulic Fracturing of the Bowland Shale, UK_
 
 
-## University of Portsmouth (2011-2014)
-### Bachelor of Science (Hons) in Environmental Science (2:1)
+### University of Portsmouth (2011-2014)
+#### Bachelor of Science (Hons) in Environmental Science (2:1)
 
 Research: _Acid Mine Drainage and Toxic Metal Contamination from Abandoned Mine Tailings in Adak, Northern Sweden_
 
@@ -69,33 +68,33 @@ University of Portsmouth (2014)
  - _Acid Mine Drainage and Toxic Metal Contamination from Abandoned Mine Tailings in Adak, Northern Sweden_
    - _Winner of Best Poster Presentation 2014_
 
-## Alton College (2010-2011)
-### Access to Higher Education: Social Sciences (2010-2011)
+### Alton College (2010-2011)
+#### Access to Higher Education: Social Sciences (2010-2011)
 
  - 12 Distinctions, 33 Merits achieved at level 3
-### AS Level(2007-2008)
+#### AS Level(2007-2008)
  - Computing and Photography 
 
-## Frensham Heights School (1999-2007)
+### Frensham Heights School (1999-2007)
  - GCSES 
 
 # Experience
 
-## B.M.W Financial Services - Hook, UK (2010)
-### Financial Support Administrator
+### B.M.W Financial Services - Hook, UK (2010)
+#### Financial Support Administrator
 Working within a small team responsible for daily office duties including; 
 - Working with confidential client information
 - Providing information and support to senior managers
 - Documenting company procedures for outsourcing handover
 
-## Master Cleaners - Farnham & Haslemere, UK (2009-2010) 
-### Shop Attendant
+### Master Cleaners - Farnham & Haslemere, UK (2009-2010) 
+#### Shop Attendant
 - Management of store during working hours
 - Provided excellent customer-specific service 
 - Basic store accounts and money handling
 
-## Otter Nurseries - Ottery St. Mary, UK (2009)
-### IT Administrator
+### Otter Nurseries - Ottery St. Mary, UK (2009)
+#### IT Administrator
 - Worked in a small team to provide effective IT solutions for a large multi- site garden centre
 - Writing and preparing copy for publishing in Beautiful Gardens magazine
 
