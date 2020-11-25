@@ -4,4 +4,4 @@ pandoc README.md \
   -V mainfont="Helvetica Neue" \
   -V geometry:margin=2cm \
   --pdf-engine=xelatex \
-  -o result.pdf
+  -o CharlotteBrandhorstSatzkornCV.pdf

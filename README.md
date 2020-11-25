@@ -78,7 +78,7 @@ University of Portsmouth (2014)
 ### Access to Higher Education: Social Sciences (2010-2011)
 
  - 12 Distinctions, 33 Merits achieved at level 3
-### AS Level(2007-2008)
+### AS Level (2007-2008)
  - Computing and Photography 
 
 ## Frensham Heights School (1999-2007)
